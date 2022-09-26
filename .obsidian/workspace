@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "c53110a64ac4f708",
+    "type": "split",
+    "children": [
+      {
+        "id": "31591139d3aa84dd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "知识点/7. 波动.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "42be8b948068fae5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c57d9fd7792c634",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea5baffa9c8d8237",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e3d4accae47e3150",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "840c058c83ffbb52",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 277.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "f2d6642b4e79db9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fce57d5974c9ffac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8d0e09e2ed6c4c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "知识点/7. 波动.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3bacf43eb212f86e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "知识点/7. 波动.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f2299f36d9224ed1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7ed99c1b7c56e542",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "知识点/7. 波动.md"
+              }
+            }
+          },
+          {
+            "id": "a0289eb302e8254d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "65cb9a6c3fe9c942",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "ccec3cd5539481f4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 208.5
+  },
+  "active": "31591139d3aa84dd",
+  "lastOpenFiles": [
+    "知识点/7. 波动.md",
+    "知识点/6. 振动.md",
+    "作业/9-23.md",
+    "知识点/1. 刚体.md",
+    "作业/T.md",
+    "知识点/5.麦克斯韦方程组.md",
+    "知识点/assets/doc/大学物理基本模型.md",
+    "知识点/8. 惠更斯原理.md",
+    "知识点/4.电磁感应.md",
+    "知识点/3. 电.md"
+  ]
+}
