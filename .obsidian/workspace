@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "知识点/7. 波动.md",
-            "mode": "source",
+            "file": "知识点/8. 光的干涉.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识点/7. 波动.md",
+                "file": "知识点/8. 光的干涉.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识点/7. 波动.md",
+                "file": "知识点/8. 光的干涉.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识点/7. 波动.md"
+                "file": "知识点/8. 光的干涉.md"
               }
             }
           },
@@ -151,19 +151,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 260.5,
+    "collapsed": true
   },
   "active": "31591139d3aa84dd",
   "lastOpenFiles": [
     "知识点/7. 波动.md",
+    "知识点/8. 光的干涉.md",
     "知识点/6. 振动.md",
-    "作业/9-23.md",
+    "知识点/4. 电磁感应.md",
+    "知识点/5. 麦克斯韦方程组.md",
+    "assets/img/屏幕截图.md",
+    "知识点/3. 电.md",
     "知识点/1. 刚体.md",
-    "作业/T.md",
-    "知识点/5.麦克斯韦方程组.md",
-    "知识点/assets/doc/大学物理基本模型.md",
-    "知识点/8. 惠更斯原理.md",
-    "知识点/4.电磁感应.md",
-    "知识点/3. 电.md"
+    "知识点/2. 相对论.md",
+    "作业/202209301516.md"
   ]
 }

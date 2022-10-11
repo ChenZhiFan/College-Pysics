@@ -1,7 +1,7 @@
 {
   "cssTheme": "ITS Theme",
-  "theme": "moonstone",
+  "theme": "obsidian",
   "translucency": false,
   "interfaceFontFamily": "SimSun",
-  "baseFontSize": 12
+  "baseFontSize": 16
 }
