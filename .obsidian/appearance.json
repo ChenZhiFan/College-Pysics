@@ -1,7 +1,8 @@
 {
-  "cssTheme": "ITS Theme",
+  "cssTheme": "Obsidianite",
   "theme": "obsidian",
   "translucency": false,
   "interfaceFontFamily": "SimSun",
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "accentColor": ""
 }

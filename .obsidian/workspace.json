@@ -4,16 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "31591139d3aa84dd",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "知识点/8. 光的干涉.md",
-            "mode": "preview",
-            "source": false
+        "id": "3a331eb27450b9d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31591139d3aa84dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识点/8. 光的干涉.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b5d6c19f47c62d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "公式/公式.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f91d716feceec983",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "公式/公式.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -31,7 +62,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -61,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5,
-    "collapsed": true
+    "width": 277.5
   },
   "right": {
     "id": "f2d6642b4e79db9f",
@@ -78,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知识点/8. 光的干涉.md",
+                "file": "公式/公式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知识点/8. 光的干涉.md",
+                "file": "公式/公式.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识点/8. 光的干涉.md"
+                "file": "公式/公式.md"
               }
             }
           },
@@ -151,20 +183,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5,
-    "collapsed": true
+    "width": 260.5
   },
-  "active": "31591139d3aa84dd",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "f91d716feceec983",
   "lastOpenFiles": [
     "知识点/7. 波动.md",
-    "知识点/8. 光的干涉.md",
     "知识点/6. 振动.md",
+    "知识点/8. 光的干涉.md",
+    "公式/公式.md",
+    "公式/未命名.md",
     "知识点/4. 电磁感应.md",
     "知识点/5. 麦克斯韦方程组.md",
     "assets/img/屏幕截图.md",
     "知识点/3. 电.md",
-    "知识点/1. 刚体.md",
-    "知识点/2. 相对论.md",
-    "作业/202209301516.md"
+    "知识点/1. 刚体.md"
   ]
 }
